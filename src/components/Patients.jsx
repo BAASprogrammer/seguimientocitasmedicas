@@ -22,7 +22,7 @@ const Patients = () => {
             <p className='font-bold mb-3'>Estado Reserva: {''}
                 <span className='font-normal'>Hora Confirmada</span>
             </p>
-        </div>
+        </div> 
     )
 }
 
