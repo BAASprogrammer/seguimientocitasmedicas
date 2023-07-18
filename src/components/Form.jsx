@@ -40,7 +40,7 @@ function Form() {
         <input type="submit" className=' bg-green-800 text-white w-full p-2 mt-2 border-2 rounded-md hover:bg-green-600 cursor-pointer transition-all' value="Revisar" />
       </form>
     </div>
-  );
+  ); 
 }
  
 export default Form;
